@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shayanchannel721@gmail.com**
 
-- 📄 Know about my experiences [[https://www.mediafire.com/file/e04nqrjmhfl834o/shayan_siddique_pakistan_resume.pdf/file](https://www.mediafire.com/file/ximmj34kki1o4p9/Shayan+Siddique.pdf.pdf/file)]([https://www.mediafire.com/file/e04nqrjmhfl834o/shayan_siddique_pakistan_resume.pdf/file](https://www.mediafire.com/file/ximmj34kki1o4p9/Shayan+Siddique.pdf.pdf/file))
+- 📄 Know about my experiences [[https://www.mediafire.com/file/e04nqrjmhfl834o/shayan_siddique_pakistan_resume.pdf/file](https://www.mediafire.com/file/ximmj34kki1o4p9/Shayan+Siddique.pdf.pdf/file)]([](https://www.mediafire.com/file/ximmj34kki1o4p9/Shayan+Siddique.pdf.pdf/file))
 
 - ⚡ Fun fact **Don't Ask Just Look!**
 
