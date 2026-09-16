@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 💼 **Flutter Developer** with 3+ years of experience — currently building at **Dexnive**
-- 📱 Shipped **11+ live mobile apps** across e-commerce, fintech, insurance, SaaS, and social platforms
+- 📱 Shipped **16+ mobile apps** across e-commerce, fintech, insurance, SaaS, and social platforms
 - 🏗️ I care about **Clean Architecture**, scalable state management (**BLoC / Riverpod**), and code that survives contact with production
 - 🔭 Currently exploring **AI-assisted app development** and **React Native**
 - 🌱 Always learning — currently deep-diving into performance optimization for large Flutter apps
@@ -52,8 +52,22 @@
 
 | Project | Description | Link |
 |---|---|---|
-| **GMJ Logistics Tracker** | Real-time airway bill & shipment tracking app | [Play Store](https://play.google.com/store) |
-| **Jubilee Motor Insurance** | Comprehensive motor insurance coverage app | [Play Store](https://play.google.com/store) |
+| **My Garage Outlet (MGO)** | Automotive e-commerce app with cart & payment gateway | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.my_garage_outlet) |
+| **CrewRoomz** | Social team room & real-time chat app | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.crewroomz_user) |
+| **CrewRoomz Lister** | Provider-side companion app for CrewRoomz | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.crewroomzListerApp) |
+| **Family Phys. Ed. (User)** | Fitness tracking & scheduling app | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.familyphysusers) |
+| **Family Phys. Ed. (Coach)** | Coach-side companion app for client progress tracking | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.familyphyscoach) |
+| **DealsAbaad** | Deals aggregator with geolocation & wallet management | [Play Store](https://play.google.com/store/apps/details?id=com.mydealsabaadstore&hl=en) |
+| **LYNX** | University social networking app | [Play Store](https://play.google.com/store/apps/details?id=com.cts.lynx) |
+| **Chubb's Army** | Community & engagement app | [Play Store](https://play.google.com/store/apps/details?id=com.cts.chubbsarmy&hl=en) |
+| **BLooM** | Wellness & lifestyle app | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.bloomapp) |
+| **Consultants R US** | Professional consulting platform | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.consultants_r_us) |
+| **Dancer Fitness** | Fitness & class scheduling app | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.dancerfitness) |
+| **Drop In** | On-demand class booking app | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.drop_in) |
+| **Epic Rides** | Ride booking & tracking with geolocation | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.epicrides) |
+| **Vybex** | Social & event engagement app | [Play Store](https://play.google.com/store/apps/details?id=com.dignitestudios.vybex) |
+| **Jubilee Motor Takaful & Insurance** | Islamic insurance platform — policy issuance & renewal | *Private* |
+| **Rent Wise** | Property rental platform with loyalty & wallet management | *Private* |
 | **Portfolio** | Full showcase of my work & case studies | [shayansiddique.netlify.app](https://shayansiddique.netlify.app/) |
 
 </div>
