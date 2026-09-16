@@ -77,16 +77,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan217&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
-<div align="center">
+<!-- Self-generated via GitHub Actions (.github/workflows/metrics.yml) instead of the
+     public vercel.app services above, which frequently rate-limit and show broken images.
+     This file is committed directly into this repo, so it doesn't depend on an outside server. -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan217&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shayan217&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br/>
